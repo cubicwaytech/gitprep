@@ -1,7 +1,4 @@
-
-
-
-
+Hello DevOp1:wq!
 
 Hello DevOps ..............
 Hello Nginx 
